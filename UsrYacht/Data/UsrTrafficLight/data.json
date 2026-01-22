@@ -1,0 +1,76 @@
+﻿{
+  "PackageData": [
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "8b414d8d-12ae-47ea-b034-7b7a2f717cf0"
+        },
+        {
+          "SchemaColumnUId": "008a510c-3f21-8055-a33f-29131923e52a",
+          "Value": 0.00
+        },
+        {
+          "SchemaColumnUId": "70f3acde-9583-c5ac-d715-0b64627afc18",
+          "Value": 0.0
+        },
+        {
+          "SchemaColumnUId": "e80190a5-03b2-4095-90f7-a193a960adee",
+          "Value": "\/Date(1769018250437+0200)\/"
+        },
+        {
+          "SchemaColumnUId": "fb574aa2-6ce1-27b8-3c4b-4d1272695595",
+          "Value": 0.0
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "a9fe922a-e44e-4d5f-bf1e-69f3f6697420"
+        },
+        {
+          "SchemaColumnUId": "008a510c-3f21-8055-a33f-29131923e52a",
+          "Value": 0.00
+        },
+        {
+          "SchemaColumnUId": "70f3acde-9583-c5ac-d715-0b64627afc18",
+          "Value": 0.0
+        },
+        {
+          "SchemaColumnUId": "e80190a5-03b2-4095-90f7-a193a960adee",
+          "Value": "\/Date(1769018262005+0200)\/"
+        },
+        {
+          "SchemaColumnUId": "fb574aa2-6ce1-27b8-3c4b-4d1272695595",
+          "Value": 0.0
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "cc398c22-7506-4e70-9ed7-37a0fac71c6a"
+        },
+        {
+          "SchemaColumnUId": "008a510c-3f21-8055-a33f-29131923e52a",
+          "Value": 0.00
+        },
+        {
+          "SchemaColumnUId": "70f3acde-9583-c5ac-d715-0b64627afc18",
+          "Value": 0.0
+        },
+        {
+          "SchemaColumnUId": "e80190a5-03b2-4095-90f7-a193a960adee",
+          "Value": "\/Date(1769018255763+0200)\/"
+        },
+        {
+          "SchemaColumnUId": "fb574aa2-6ce1-27b8-3c4b-4d1272695595",
+          "Value": 0.0
+        }
+      ]
+    }
+  ]
+}

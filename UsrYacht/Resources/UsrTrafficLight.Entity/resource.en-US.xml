@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Traffic light" />
+			<Item Name="Columns.UsrCurrency02.Caption" Value="Currency02" />
+			<Item Name="Columns.UsrNewCurrency.Caption" Value="New currency" />
+			<Item Name="Columns.UsrNewDecimal.Caption" Value="New decimal" />
+		</Items>
+	</Group>
+</Resources>
